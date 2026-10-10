@@ -32,7 +32,7 @@ npm run start
 - `src/lib/contact.ts`: formato MXN, validación de enlaces y mensajes WhatsApp codificados.
 - `public/images/`: fotografías locales optimizadas en pantalla por `next/image`.
 - `tests/`: pruebas funcionales, responsive y auditoría axe.
-- `reports/`: capturas y mediciones de Lighthouse; `VALIDACION.md` resume resultados ejecutados.
+- `reports/`: capturas y mediciones de Lighthouse; `PUBLICACION.md` resume resultados ejecutados.
 
 Se generan páginas estáticas. La navegación, filtros, galerías y portapapeles se ejecutan en el navegador. No hay solicitudes guardadas ni simulaciones de envío. Motion se usa únicamente en la entrada del hero, sin ocultar el contenido; se respeta movimiento reducido. Radix administra foco y Escape en los paneles. Las fuentes se descargan durante el build con `next/font` y se sirven desde la propia aplicación.
 
@@ -79,7 +79,7 @@ Para Lighthouse, iniciar producción en otra terminal y ejecutar:
 npm run audit
 ```
 
-Los informes HTML y JSON se guardan en `reports/lighthouse/`. Se utiliza el perfil móvil predeterminado de Lighthouse sobre localhost. Los resultados varían según equipo, carga y red; consultar las mediciones reales en `VALIDACION.md`.
+Los informes HTML y JSON se guardan en `reports/lighthouse/`. Se utiliza el perfil móvil predeterminado de Lighthouse sobre localhost. Los resultados varían según equipo, carga y red; consultar las mediciones reales en `PUBLICACION.md`.
 
 ## Publicar en GitHub y Netlify
 
