@@ -1,0 +1,21 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.tsbuildinfo
+playwright-report/
+test-results/
+
+# Local hosting state and credentials
+.netlify/
+.vercel/
+.openai/
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+coverage/
+reports/
+.DS_Store
+Thumbs.db

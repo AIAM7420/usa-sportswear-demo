@@ -1,0 +1,112 @@
+{
+  "name": "USA Sportswear",
+  "description": "Tu ritmo. Tu estilo. Una selección deportiva para moverte todos los días.",
+  "phone": null,
+  "email": null,
+  "socials": [],
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Inicio"
+    },
+    {
+      "href": "/colecciones",
+      "label": "Colecciones"
+    },
+    {
+      "href": "/nosotros",
+      "label": "Nosotros"
+    },
+    {
+      "href": "/valores",
+      "label": "Valores"
+    },
+    {
+      "href": "/contacto",
+      "label": "Contacto"
+    }
+  ],
+  "brands": ["Nike", "Adidas", "Puma", "Under Armour"],
+  "categories": [
+    {
+      "id": "playeras",
+      "name": "Playeras",
+      "image": "/images/playera.jpg"
+    },
+    {
+      "id": "sudaderas",
+      "name": "Sudaderas",
+      "image": "/images/sudadera.jpg"
+    },
+    {
+      "id": "pantalones",
+      "name": "Pantalones",
+      "image": "/images/movimiento.jpg"
+    },
+    {
+      "id": "chamarras",
+      "name": "Chamarras",
+      "image": "/images/chamarra.jpg"
+    }
+  ],
+  "home": {
+    "headline": "Hecho para\nmoverte.",
+    "intro": "Del primer entrenamiento al último plan del día. Encuentra prendas que siguen tu ritmo.",
+    "storyTitle": "El estilo también se entrena.",
+    "story": "Creemos en los días que empiezan en movimiento y terminan donde tú decidas. USA Sportswear es una boutique deportiva ficticia que reúne comodidad, actitud y una selección fácil de explorar.",
+    "heroNote": "Una selección para todos tus días",
+    "heroLine1": "Hecho para",
+    "heroLine2": "moverte",
+    "heroButton": "Explorar colección",
+    "categoryNote": "Encuentra tu siguiente favorito",
+    "categoryTitle": "Tu día, tu colección.",
+    "categoryDescription": "Prendas para cada forma de moverte.",
+    "featuredNote": "La selección USA",
+    "featuredTitle": "Listos para salir.",
+    "journalNote": "Guía de estilo",
+    "journalTitle1": "Un básico.",
+    "journalTitle2": "Muchos caminos.",
+    "journalDescription": "Playera, capa ligera y tu prenda favorita. A veces, encontrar tu estilo empieza por mantenerlo sencillo.",
+    "closingTitle": "¿Cuál es tu siguiente movimiento?"
+  },
+  "story": {
+    "title": "La ciudad es nuestra cancha.",
+    "intro": "Nos inspira el movimiento cotidiano: salir a correr, caminar sin rumbo, entrenar con amigos. USA Sportswear es un concepto de tienda multimarca creado para mostrar una forma más cercana de descubrir ropa deportiva.",
+    "sections": [
+      {
+        "title": "Una selección con intención",
+        "text": "Buscamos una mezcla de básicos, capas y prendas cómodas para acompañar distintas formas de moverse."
+      },
+      {
+        "title": "Tu estilo, a tu ritmo",
+        "text": "Explora categorías, compara opciones y prepara una consulta con tu talla y color. Sin prisa y con la información a la vista."
+      },
+      {
+        "title": "Una demo transparente",
+        "text": "El catálogo, los precios y la disponibilidad son ficticios. No somos una tienda oficial ni representamos a las marcas mencionadas."
+      }
+    ]
+  },
+  "values": [
+    {
+      "title": "Comodidad que acompaña",
+      "text": "Prendas elegidas para imaginar un guardarropa versátil, entre el deporte y la vida diaria."
+    },
+    {
+      "title": "Información clara",
+      "text": "Tallas, colores y disponibilidad visibles antes de preparar una consulta."
+    },
+    {
+      "title": "Estilo que permanece",
+      "text": "Preferimos prendas combinables y siluetas fáciles de integrar a tu día."
+    },
+    {
+      "title": "Atención al detalle",
+      "text": "Cada elección, desde una fotografía hasta un botón, debe ayudarte a encontrar lo que buscas."
+    },
+    {
+      "title": "Responsabilidad al comunicar",
+      "text": "Distinguimos la información demostrativa de una oferta real y evitamos promesas que no podemos acreditar."
+    }
+  ]
+}

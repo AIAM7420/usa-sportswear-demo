@@ -1,0 +1,1138 @@
+[
+  {
+    "id": "producto-1",
+    "slug": "nike-playeras-demo",
+    "name": "Playera esencial",
+    "brand": "Nike",
+    "category": "playeras",
+    "price": 650,
+    "createdAt": "2026-09-28",
+    "description": "Una referencia de playera de corte cómodo para combinar en tu día a día.",
+    "images": [
+      {
+        "src": "/images/playera.jpg",
+        "alt": "Referencia ilustrativa de playera esencial, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/playera.jpg",
+        "alt": "Acercamiento de la referencia de playera esencial",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Blanco",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Marino",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Marino",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Marino",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Marino",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-2",
+    "slug": "nike-sudaderas-demo",
+    "name": "Sudadera con capucha",
+    "brand": "Nike",
+    "category": "sudaderas",
+    "price": 1250,
+    "createdAt": "2026-09-27",
+    "description": "Una referencia de sudadera con capucha, pensada para las pausas y las salidas frescas.",
+    "images": [
+      {
+        "src": "/images/sudadera.jpg",
+        "alt": "Referencia ilustrativa de sudadera con capucha, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/sudadera.jpg",
+        "alt": "Acercamiento de la referencia de sudadera con capucha",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Gris",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-3",
+    "slug": "nike-pantalones-demo",
+    "name": "Leggings de entrenamiento",
+    "brand": "Nike",
+    "category": "pantalones",
+    "price": 890,
+    "createdAt": "2026-09-26",
+    "description": "Una referencia de pantalón deportivo ajustado para acompañar el movimiento.",
+    "images": [
+      {
+        "src": "/images/movimiento.jpg",
+        "alt": "Referencia ilustrativa de leggings de entrenamiento, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/movimiento.jpg",
+        "alt": "Acercamiento de la referencia de leggings de entrenamiento",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Azul",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-4",
+    "slug": "nike-chamarras-demo",
+    "name": "Chamarra ligera",
+    "brand": "Nike",
+    "category": "chamarras",
+    "price": 1590,
+    "createdAt": "2026-09-25",
+    "description": "Una referencia de chamarra deportiva para completar tus capas de todos los días.",
+    "images": [
+      {
+        "src": "/images/chamarra.jpg",
+        "alt": "Referencia ilustrativa de chamarra ligera, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/chamarra.jpg",
+        "alt": "Acercamiento de la referencia de chamarra ligera",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Oliva",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Oliva",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Oliva",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Oliva",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-5",
+    "slug": "adidas-playeras-demo",
+    "name": "Playera esencial",
+    "brand": "Adidas",
+    "category": "playeras",
+    "price": 730,
+    "createdAt": "2026-09-24",
+    "description": "Una referencia de playera de corte cómodo para combinar en tu día a día.",
+    "images": [
+      {
+        "src": "/images/playera.jpg",
+        "alt": "Referencia ilustrativa de playera esencial, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/playera.jpg",
+        "alt": "Acercamiento de la referencia de playera esencial",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Blanco",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Marino",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Marino",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Marino",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Marino",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-6",
+    "slug": "adidas-sudaderas-demo",
+    "name": "Sudadera con capucha",
+    "brand": "Adidas",
+    "category": "sudaderas",
+    "price": 1330,
+    "createdAt": "2026-09-23",
+    "description": "Una referencia de sudadera con capucha, pensada para las pausas y las salidas frescas.",
+    "images": [
+      {
+        "src": "/images/sudadera.jpg",
+        "alt": "Referencia ilustrativa de sudadera con capucha, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/sudadera.jpg",
+        "alt": "Acercamiento de la referencia de sudadera con capucha",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Gris",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-7",
+    "slug": "adidas-pantalones-demo",
+    "name": "Leggings de entrenamiento",
+    "brand": "Adidas",
+    "category": "pantalones",
+    "price": 970,
+    "createdAt": "2026-09-22",
+    "description": "Una referencia de pantalón deportivo ajustado para acompañar el movimiento.",
+    "images": [
+      {
+        "src": "/images/movimiento.jpg",
+        "alt": "Referencia ilustrativa de leggings de entrenamiento, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/movimiento.jpg",
+        "alt": "Acercamiento de la referencia de leggings de entrenamiento",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Azul",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-8",
+    "slug": "adidas-chamarras-demo",
+    "name": "Chamarra ligera",
+    "brand": "Adidas",
+    "category": "chamarras",
+    "price": 1670,
+    "createdAt": "2026-09-21",
+    "description": "Una referencia de chamarra deportiva para completar tus capas de todos los días.",
+    "images": [
+      {
+        "src": "/images/chamarra.jpg",
+        "alt": "Referencia ilustrativa de chamarra ligera, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/chamarra.jpg",
+        "alt": "Acercamiento de la referencia de chamarra ligera",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Oliva",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Oliva",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Oliva",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Oliva",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-9",
+    "slug": "puma-playeras-demo",
+    "name": "Playera esencial",
+    "brand": "Puma",
+    "category": "playeras",
+    "price": 810,
+    "createdAt": "2026-09-20",
+    "description": "Una referencia de playera de corte cómodo para combinar en tu día a día.",
+    "images": [
+      {
+        "src": "/images/playera.jpg",
+        "alt": "Referencia ilustrativa de playera esencial, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/playera.jpg",
+        "alt": "Acercamiento de la referencia de playera esencial",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Blanco",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Marino",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Marino",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Marino",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Marino",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-10",
+    "slug": "puma-sudaderas-demo",
+    "name": "Sudadera con capucha",
+    "brand": "Puma",
+    "category": "sudaderas",
+    "price": 1410,
+    "createdAt": "2026-09-19",
+    "description": "Una referencia de sudadera con capucha, pensada para las pausas y las salidas frescas.",
+    "images": [
+      {
+        "src": "/images/sudadera.jpg",
+        "alt": "Referencia ilustrativa de sudadera con capucha, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/sudadera.jpg",
+        "alt": "Acercamiento de la referencia de sudadera con capucha",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Gris",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-11",
+    "slug": "puma-pantalones-demo",
+    "name": "Leggings de entrenamiento",
+    "brand": "Puma",
+    "category": "pantalones",
+    "price": 1050,
+    "createdAt": "2026-09-18",
+    "description": "Una referencia de pantalón deportivo ajustado para acompañar el movimiento.",
+    "images": [
+      {
+        "src": "/images/movimiento.jpg",
+        "alt": "Referencia ilustrativa de leggings de entrenamiento, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/movimiento.jpg",
+        "alt": "Acercamiento de la referencia de leggings de entrenamiento",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Azul",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-12",
+    "slug": "puma-chamarras-demo",
+    "name": "Chamarra ligera",
+    "brand": "Puma",
+    "category": "chamarras",
+    "price": 1750,
+    "createdAt": "2026-09-17",
+    "description": "Una referencia de chamarra deportiva para completar tus capas de todos los días.",
+    "images": [
+      {
+        "src": "/images/chamarra.jpg",
+        "alt": "Referencia ilustrativa de chamarra ligera, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/chamarra.jpg",
+        "alt": "Acercamiento de la referencia de chamarra ligera",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Oliva",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Oliva",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Oliva",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Oliva",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-13",
+    "slug": "under-armour-playeras-demo",
+    "name": "Playera esencial",
+    "brand": "Under Armour",
+    "category": "playeras",
+    "price": 890,
+    "createdAt": "2026-09-16",
+    "description": "Una referencia de playera de corte cómodo para combinar en tu día a día.",
+    "images": [
+      {
+        "src": "/images/playera.jpg",
+        "alt": "Referencia ilustrativa de playera esencial, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/playera.jpg",
+        "alt": "Acercamiento de la referencia de playera esencial",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Blanco",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Blanco",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Marino",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Marino",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Marino",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Marino",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-14",
+    "slug": "under-armour-sudaderas-demo",
+    "name": "Sudadera con capucha",
+    "brand": "Under Armour",
+    "category": "sudaderas",
+    "price": 1490,
+    "createdAt": "2026-09-15",
+    "description": "Una referencia de sudadera con capucha, pensada para las pausas y las salidas frescas.",
+    "images": [
+      {
+        "src": "/images/sudadera.jpg",
+        "alt": "Referencia ilustrativa de sudadera con capucha, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/sudadera.jpg",
+        "alt": "Acercamiento de la referencia de sudadera con capucha",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Gris",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Gris",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-15",
+    "slug": "under-armour-pantalones-demo",
+    "name": "Leggings de entrenamiento",
+    "brand": "Under Armour",
+    "category": "pantalones",
+    "price": 1130,
+    "createdAt": "2026-09-14",
+    "description": "Una referencia de pantalón deportivo ajustado para acompañar el movimiento.",
+    "images": [
+      {
+        "src": "/images/movimiento.jpg",
+        "alt": "Referencia ilustrativa de leggings de entrenamiento, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/movimiento.jpg",
+        "alt": "Acercamiento de la referencia de leggings de entrenamiento",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Azul",
+        "available": true
+      },
+      {
+        "size": "XL",
+        "color": "Azul",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": true
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  },
+  {
+    "id": "producto-16",
+    "slug": "under-armour-chamarras-demo",
+    "name": "Chamarra ligera",
+    "brand": "Under Armour",
+    "category": "chamarras",
+    "price": 1830,
+    "createdAt": "2026-09-13",
+    "description": "Una referencia de chamarra deportiva para completar tus capas de todos los días.",
+    "images": [
+      {
+        "src": "/images/chamarra.jpg",
+        "alt": "Referencia ilustrativa de chamarra ligera, sin atribución a un modelo comercial",
+        "label": "Vista general",
+        "zoom": false
+      },
+      {
+        "src": "/images/chamarra.jpg",
+        "alt": "Acercamiento de la referencia de chamarra ligera",
+        "label": "Acercamiento",
+        "zoom": true
+      }
+    ],
+    "variants": [
+      {
+        "size": "S",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "M",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "L",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Negro",
+        "available": false
+      },
+      {
+        "size": "S",
+        "color": "Oliva",
+        "available": false
+      },
+      {
+        "size": "M",
+        "color": "Oliva",
+        "available": false
+      },
+      {
+        "size": "L",
+        "color": "Oliva",
+        "available": false
+      },
+      {
+        "size": "XL",
+        "color": "Oliva",
+        "available": false
+      }
+    ],
+    "details": [
+      "Catálogo de demostración; no representa inventario real.",
+      "Fotografía ilustrativa de categoría, no del modelo ni de la marca seleccionada.",
+      "Composición y medidas finales por confirmar con la tienda."
+    ]
+  }
+]
